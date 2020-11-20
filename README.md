@@ -1,2 +1,2 @@
-# testcli
+# qz-cli
 none
